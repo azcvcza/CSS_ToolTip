@@ -1,0 +1,20 @@
+{
+  "name": "CSS_ToolTip",
+  "version": "1.0.0",
+  "description": "CSS3实现漂亮ToolTips效果",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azcvcza/CSS_ToolTip.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azcvcza/CSS_ToolTip/issues"
+  },
+  "homepage": "https://github.com/azcvcza/CSS_ToolTip#readme"
+}
